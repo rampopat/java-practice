@@ -1,0 +1,13 @@
+public enum MapEntry {
+
+  EMPTY,
+  FOREST,
+  WATER,
+  MOUNTAINS,
+  LAND_BORDER,
+
+  VILLAGE,
+  TOWN,
+  SANTAS_STARTING_LOCATION;
+
+}
